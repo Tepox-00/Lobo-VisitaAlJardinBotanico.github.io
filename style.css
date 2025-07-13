@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'BryndanWrite';
+  src: url('Font/BryndanWriteBook-nGPM.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-family: 'BryndanWrite', cursive, sans-serif;
   background-color: #ffe6eb;
   color: #333;
   margin: 0;
